@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libsumlib.so -o libsumlib.so CMakeFiles/sumlib.dir/sum.cpp.o 

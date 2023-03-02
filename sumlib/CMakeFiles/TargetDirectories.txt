@@ -1,0 +1,3 @@
+/home/ilumi/my/job/cpp/CMakeFiles/sumlib.dir
+/home/ilumi/my/job/cpp/CMakeFiles/edit_cache.dir
+/home/ilumi/my/job/cpp/CMakeFiles/rebuild_cache.dir
