@@ -1,3 +1,0 @@
-/home/ilumi/my/job/cpp/CMakeFiles/runTests.dir
-/home/ilumi/my/job/cpp/CMakeFiles/edit_cache.dir
-/home/ilumi/my/job/cpp/CMakeFiles/rebuild_cache.dir
