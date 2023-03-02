@@ -6,3 +6,8 @@
 Makefile
 
 /vendor/CMakeFiles/*
+!/vendor/sumso/*
+!/vendor/sumso/CMakeLists.txt
+!/vendor/sumso/sum.cpp
+!/vendor/sumso/sum.h
+
