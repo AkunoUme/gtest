@@ -1,0 +1,8 @@
+*.cmake
+
+*.txt
+!CMakeLists.txt
+
+Makefile
+
+/vendor/CMakeFiles/*
